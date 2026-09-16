@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
       title: "Agendamento de Evento",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 255, 0, 0)),
+        colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 252, 7, 7)),
         useMaterial3: true,
       ),
       // Aponta Home para Classe AgendamentoEventoTela
